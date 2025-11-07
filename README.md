@@ -46,8 +46,8 @@ Listo, el proyecto estará cargado y listo para usar o modificar.
 
 ## 🧑‍💻 Grupo:  
 - **Leandro Nuñez**
-- **isabella quintero**
-- **umma leyria**
+- **Isabella quintero**
+- **Umma leyria**
 
 **Años de participación en la Scratchaton:**  
 - 2023  
