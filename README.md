@@ -1,7 +1,7 @@
 # 🧠 Scratchaton 2025 – Proyecto en Scratch
 
 ## 📚 Competencia organizada por OIA
-**Scratchaton 2025** es una competencia educativa organizada por la **OIA (Organización de Estados Iberoamericanos)** con el objetivo de fomentar el pensamiento lógico, la creatividad y la resolución de problemas mediante la programación en **Scratch**.
+**Scratchaton 2025** es una competencia educativa organizada por la **OIA (OLIMPIADAS INFORMATICAS ARGENTINAS)** con el objetivo de fomentar el pensamiento lógico, la creatividad y la resolución de problemas mediante la programación en **Scratch**.
 
 Este año es **mi tercera vez participando**, demostrando compromiso, experiencia y mejora constante en el diseño de proyectos interactivos.
 
