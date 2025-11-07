@@ -53,13 +53,14 @@ Listo, el proyecto estará cargado y listo para usar o modificar.
 - 2023  
 - 2024  
 - **2025 (presente)**
-## 🎓 Certificados de Participación
 
 ---
 
+## 🎓 Certificados de Participación
+
 <p align="center">
   <a href="certificado_2023.pdf" target="_blank">
-    <img src=""C:\Users\nunez\Downloads\oia_cert (2).pdf"" />
+    <img src="https://img.shields.io/badge/Certificado%202023-Download-blue?style=for-the-badge" />
   </a>
   <a href="certificado_2024.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Certificado%202024-Download-green?style=for-the-badge" />
@@ -68,4 +69,3 @@ Listo, el proyecto estará cargado y listo para usar o modificar.
     <img src="https://img.shields.io/badge/Certificado%202025-Download-purple?style=for-the-badge" />
   </a>
 </p>
-
